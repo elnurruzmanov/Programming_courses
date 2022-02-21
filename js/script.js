@@ -59,6 +59,22 @@ langs()
 const append = document.querySelector(".li")
 const navList = todoList.children
 
-append.addEventListener("click", function(){
+prepend.addEventListener("click", function(){
 
 })
+
+
+
+
+// class Person{
+//     name;
+//     age;
+//     constructor(name, age){
+//         this.name = name;
+//         this.age = age;
+//     }
+// }
+
+// const person2 = new Person("number", "click");
+
+// console.log(person2);
